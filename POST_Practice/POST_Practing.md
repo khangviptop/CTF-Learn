@@ -17,7 +17,11 @@ The description above shows the most information we have to do. In conclusion, w
 4. We have two solution 3 solution to solve this
 ● Using BurpSuite
 ● Code by Python with built-in modules (Requests)
+- Import "Requests" Library and use post method
+- Then print the object "Request" in text.
 ● Command (a.k.a bash language for shell)
+Command: curl -d "username=admin&password=71urlkufpsdnlkadsf"  http://165.227.106.113/post.php
+- Type "curl --help for more infomation"
 ```
 
 #### The Flag (for reference): ✔️
